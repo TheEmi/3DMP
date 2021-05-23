@@ -1,7 +1,7 @@
 FINAL PROJECT:<br>
 
 Name: Tora Tora ride<br>
-Description: An amusement ride that rotates around 2 different axis at the same time to create a uniqe feeling
+Description: An amusement park ride that rotates around 2 different axis at the same time to create an interesting sensation
 <br>
 I chose this project because of the interesting movement and because i had
 the ambition to move the whole mechanism from a single gear from the moment i saw the video
