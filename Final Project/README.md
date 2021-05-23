@@ -8,7 +8,7 @@ the ambition to move the whole mechanism from a single gear from the moment i sa
 <br>
 HOW IT WORKS: The mechanism rotates the Base Wheel to move the whole Ride around
 the global Z axis and uses the difference in movement from the Base Wheel and the Base to move a gear on the Base wheel.
-This causes the whole ride to be related to the Base Wheel and maked it simple to rotate the Ride around it's own tilted Z axis.
+This causes the whole ride to be related to the Base Wheel and makes it simple to rotate the Ride around it's own tilted Z axis.
 <br>
 TO OPERATE THE RIDE: You turn the Operator joint or play the Rotate motion study
 (Included videos of this)
